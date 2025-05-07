@@ -31,8 +31,8 @@ This lab explores **Microsoft Sentinel**, a cloud-native SIEM and SOAR solution 
 3. Activated the Microsoft Sentinel free trial.
 
  _Screenshot: Microsoft Sentinel deployment page_  
-![Create Sentinel](images/task1_create_sentinel1.png)
-![Create Sentinel](images/task1_create_sentinel.png)
+![Create Sentinel](images/task1_create_sentinel1.png.png)
+![Create Sentinel](images/task1_create_sentinel.png.png)
 
 ---
 
