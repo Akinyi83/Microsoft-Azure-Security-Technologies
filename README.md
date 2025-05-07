@@ -47,7 +47,7 @@ This lab explores **Microsoft Sentinel**, a cloud-native SIEM and SOAR solution 
  Followed the principle of **least privilege**.
 
  _Screenshot: IAM roles view_  
-![IAM Roles](images/task2_iam_roles.png)
+![IAM Roles](images/task2_iam_roles1.png.png)
 
 ---
 
