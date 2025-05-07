@@ -31,8 +31,8 @@ This lab explores **Microsoft Sentinel**, a cloud-native SIEM and SOAR solution 
 3. Activated the Microsoft Sentinel free trial.
 
  _Screenshot: Microsoft Sentinel deployment page_  
-`![Create Sentinel](images/task1_create_sentinel1.png)`
-`![Create Sentinel](images/task1_create_sentinel.png)`
+![Create Sentinel](images/task1_create_sentinel1.png)
+![Create Sentinel](images/task1_create_sentinel.png)
 
 ---
 
@@ -47,7 +47,7 @@ This lab explores **Microsoft Sentinel**, a cloud-native SIEM and SOAR solution 
  Followed the principle of **least privilege**.
 
  _Screenshot: IAM roles view_  
-`![IAM Roles](images/task2_iam_roles.png)`
+![IAM Roles](images/task2_iam_roles.png)
 
 ---
 
@@ -60,8 +60,8 @@ This lab explores **Microsoft Sentinel**, a cloud-native SIEM and SOAR solution 
 4. Saved the rule.
 
  _Screenshot: Analytics rule activation_  
-![Analytics Rule](images/task3_analytics_rule.png.png)`
-![Analytics Rule](images/task3_analytics_rule2.png.png)`
+![Analytics Rule](images/task3_analytics_rule.png.png)
+![Analytics Rule](images/task3_analytics_rule2.png.png)
 
 ---
 
@@ -74,7 +74,7 @@ This lab explores **Microsoft Sentinel**, a cloud-native SIEM and SOAR solution 
 - Reviewed Playbooks under Automation.
 
  _Screenshot: MITRE ATT&CK interface_  
-`![MITRE ATT&CK](images/task4_mitre_attack.png)`
+![MITRE ATT&CK](images/task4_mitre_attack.png.png)
 
 ---
 
